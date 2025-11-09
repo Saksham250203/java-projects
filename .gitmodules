@@ -1,0 +1,3 @@
+[submodule "online-student-mgmt"]
+	path = online-student-mgmt
+	url = https://github.com/Saksham250203/online-student-mgmt.git
